@@ -20,7 +20,7 @@ Vì thế mục tiêu bài toán của chúng ta hôm nay là phân cụm các m
   
   path: dataset/glass.data
   
-  ## Kết quả:
+ ## Kết quả:
 * Sau khi chạy kết quả bài toán ta nhận được 3 cụm riêng biệt và có các đặc điểm sau:
   -	Cụm 0: Độ RI cao nhất, giàu Fe và đặt biệt cao Ca
   -	Cụm 1: Đặt biệt giàu Mg và ít Al và Ca
